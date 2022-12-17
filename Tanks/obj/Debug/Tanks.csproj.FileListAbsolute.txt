@@ -1,0 +1,11 @@
+E:\Games\Programm\C#\Lection\Tanks\bin\Debug\Tanks.exe.config
+E:\Games\Programm\C#\Lection\Tanks\bin\Debug\Tanks.exe
+E:\Games\Programm\C#\Lection\Tanks\bin\Debug\Tanks.pdb
+E:\Games\Programm\C#\Lection\Tanks\obj\Debug\Tanks.csproj.AssemblyReference.cache
+E:\Games\Programm\C#\Lection\Tanks\obj\Debug\Tanks.csproj.SuggestedBindingRedirects.cache
+E:\Games\Programm\C#\Lection\Tanks\obj\Debug\Tanks.Form1.resources
+E:\Games\Programm\C#\Lection\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+E:\Games\Programm\C#\Lection\Tanks\obj\Debug\Tanks.csproj.GenerateResource.cache
+E:\Games\Programm\C#\Lection\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+E:\Games\Programm\C#\Lection\Tanks\obj\Debug\Tanks.exe
+E:\Games\Programm\C#\Lection\Tanks\obj\Debug\Tanks.pdb
